@@ -1,6 +1,6 @@
 I'm Sami Khan
 # 💫 About Me:
-🔭 I’m currently working on Java Projects<b>Employee Management System</b><br>📫 How to reach me samikhan28972@gmail.com<br>🌱 I’m currently learning Flutter & AI Technologies<br>⚡ Fun fact Computer communicates through 0’s and 1’s
+🔭 I’m currently working on<b> Employee Management System</b><br>📫 How to reach me samikhan28972@gmail.com<br>🌱 I’m currently learning Flutter & AI Technologies<br>⚡ Fun fact Computer communicates through 0’s and 1’s
 
 
 ## 🌐 Socials:
